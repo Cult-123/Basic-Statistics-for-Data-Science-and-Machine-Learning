@@ -1,4 +1,4 @@
-# Basic Statistics for Data Science & Machine Learning
+# Basic-Statistics-for-Data-Science-&-Machine-Learning
 This repo contains basic statistics of Data Science & Machine Learning which are as follows:
 
 **1.** Gaussian and Summary Stats.<br>
